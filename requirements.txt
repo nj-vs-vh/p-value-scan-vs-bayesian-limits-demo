@@ -1,0 +1,6 @@
+jupyter
+emcee
+matplotlib
+corner
+scipy
+tqdm
